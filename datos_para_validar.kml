@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="datos_para_validar" id="datos_para_validar">
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="LOCALIZACION" type="string"></SimpleField>
+	<SimpleField name="TIPO_VIA" type="string"></SimpleField>
+	<SimpleField name="DIRECCION" type="string"></SimpleField>
+	<SimpleField name="NUM" type="float"></SimpleField>
+	<SimpleField name="CP" type="string"></SimpleField>
+	<SimpleField name="COD_MUNI" type="string"></SimpleField>
+	<SimpleField name="MUNICIPIO" type="string"></SimpleField>
+	<SimpleField name="PROVINCIA" type="string"></SimpleField>
+</Schema>
+<Folder><name>datos_para_validar</name>
+  <Placemark>
+	<name>101310252492</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">PLAZA</SimpleData>
+		<SimpleData name="LOCALIZACION">ESPAÑA</SimpleData>
+		<SimpleData name="TIPO_VIA">2</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54059461444984,39.8917005520389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310099116</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">LEPANTO</SimpleData>
+		<SimpleData name="TIPO_VIA">15</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.53990495944629,39.8923809620118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310252352</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">GOYA</SimpleData>
+		<SimpleData name="TIPO_VIA">5</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54235640882115,39.8924218622791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310252684</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">AMAPOLA</SimpleData>
+		<SimpleData name="TIPO_VIA">2</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.53923222968359,39.8936756512104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310001539</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">LUCHANA</SimpleData>
+		<SimpleData name="TIPO_VIA">3</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54131087859412,39.8919308369386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310252013</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">PUERTO LAPICE</SimpleData>
+		<SimpleData name="TIPO_VIA">99</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.536885,39.890796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310231851</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">SAN ANDRES</SimpleData>
+		<SimpleData name="TIPO_VIA">41</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54406190563242,39.8904526051037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310158144</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">CALVO SOTELO</SimpleData>
+		<SimpleData name="TIPO_VIA">34</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.5412597242568,39.8939985258114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310235801</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">PASEO</SimpleData>
+		<SimpleData name="LOCALIZACION">ESTACION</SimpleData>
+		<SimpleData name="TIPO_VIA">9</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54523156568416,39.8928495816429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310071395</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">AVENIDA</SimpleData>
+		<SimpleData name="LOCALIZACION">ANGUSTIAS</SimpleData>
+		<SimpleData name="TIPO_VIA">36</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.531003,39.892185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310252371</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">MODESTO MARCOS</SimpleData>
+		<SimpleData name="TIPO_VIA">1</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.536083,39.894038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310174431</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">JAZMIN</SimpleData>
+		<SimpleData name="TIPO_VIA">28</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.53701616166649,39.8919167400655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310251600</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">JOAQUIN COSTA</SimpleData>
+		<SimpleData name="TIPO_VIA">8</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54129102426134,39.8906135765554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310251864</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CALLE</SimpleData>
+		<SimpleData name="LOCALIZACION">DEPORTES</SimpleData>
+		<SimpleData name="TIPO_VIA">39</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.53929996212349,39.8880029606681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101310189715</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#datos_para_validar">
+		<SimpleData name="ID">CARRETERA</SimpleData>
+		<SimpleData name="LOCALIZACION">JARANDILLA</SimpleData>
+		<SimpleData name="TIPO_VIA">29</SimpleData>
+		<SimpleData name="DIRECCION">10300</SimpleData>
+		<SimpleData name="NUM">1100003617</SimpleData>
+		<SimpleData name="CP">Navalmoral de la Mata</SimpleData>
+		<SimpleData name="COD_MUNI">Cáceres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54358,39.897994</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
